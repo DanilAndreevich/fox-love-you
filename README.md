@@ -9,3 +9,5 @@
   + [Eslint](https://github.com/yannickcr/eslint-plugin-react)
   + [Prettier](https://github.com/prettier/eslint-config-prettier)
   + [Css modules](https://github.com/gajus/react-css-modules)
+
+Со-разработчик: https://github.com/denexapp
