@@ -1,0 +1,12 @@
+.section {
+  background-color: #ecf1f3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.link {
+  margin-top: 30px;
+}
+

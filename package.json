@@ -1,0 +1,30 @@
+{
+  "name": "react-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@skbkontur/react-ui": "^0.23.0",
+    "classnames": "^2.2.6",
+    "core-js": "^2.5.7",
+    "km-tracker": "git+ssh://git@git.skbkontur.ru:Kontur.Metrika/km-tracker.git",
+    "prop-types": "^15.6.2",
+    "react": "^16.4",
+    "react-app-polyfill": "^0.1.3",
+    "react-dom": "^16.4.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

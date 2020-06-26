@@ -1,0 +1,23 @@
+.section {
+  background-color: #359ed2;
+  color: #ffffff;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.link:focus, .link:hover {
+  text-decoration: underline;
+}
+
+.blocks {
+  max-width: 1200px;
+  margin: 30px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

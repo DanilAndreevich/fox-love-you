@@ -1,0 +1,42 @@
+.container {
+  margin-left: auto;
+  display: flex;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  color: #333333;
+  padding: 8px 10px;
+  text-decoration: none;
+}
+
+
+.button {
+  font: inherit;
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 2px;
+  outline: none;
+  margin: 5px;
+}
+
+.button:hover, button:focus {
+  background-color: #f2f2f2
+}
+
+.button:active {
+  background-color: #e5e5e5;
+}
+
+.divider {
+  background-color: #dfdfdf;
+  width: 1px;
+  height: 100%;
+  margin: 0 5px
+}
+
+.balance {
+  color: #d1542f
+}

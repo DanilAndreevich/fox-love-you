@@ -1,0 +1,41 @@
+.block {
+  min-width: 191px;
+  flex-grow: 0;
+  max-width: 240px;
+  text-align: center;
+  margin: 20px 5px 0;
+}
+
+.picture {
+  margin-left: auto;
+  margin-right: auto;
+  width: 191px;
+  height: 191px;
+  transition: transform 0.15s ease-in-out;
+}
+
+.title {
+  font-size: 22px;
+  color: #fff;
+  margin-top: 10px;
+}
+
+.pictureLink {
+  text-decoration: none;
+}
+
+.pictureLink:hover .picture {
+  transform: scale(1.05);
+}
+
+.pictureLink:active .picture {
+  transform: scale(0.95);
+}
+
+.pictureLink:hover .title {
+  text-decoration: underline;
+}
+
+.description {
+  margin-top: 10px;
+}

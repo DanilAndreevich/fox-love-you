@@ -1,0 +1,15 @@
+.space {
+  box-sizing: border-box;
+  min-height: 490px;
+  background-color: #333f5e;
+  color: #ffffff;
+  background-image: url('./image/planet-earth.png');
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 50% auto;
+}
+
+.text {
+  width: calc(50% - 100px);
+  margin: 50px 100px 0 auto;
+}

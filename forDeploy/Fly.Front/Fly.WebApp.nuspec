@@ -1,0 +1,12 @@
+<package>
+  <metadata>
+    <id>Fly.WebApp</id>
+    <title>Fly.WebApp:Default</title>
+    <version>1.0.0</version>
+    <authors>UKS</authors>
+    <owners>UKS</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>0000.00.00.000000-build1</description>
+    <summary></summary>
+  </metadata>
+</package>

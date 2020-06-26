@@ -1,0 +1,14 @@
+.motivation {
+  background-color: #d1542f;
+  color: #ffffff;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.link:hover{
+  text-decoration: underline;
+}

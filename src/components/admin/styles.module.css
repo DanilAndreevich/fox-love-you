@@ -1,0 +1,76 @@
+.tabs {
+  height: 80px;
+  background-color: #fff;
+  box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.2);
+}
+.content {
+  margin-top: 20px;
+  padding: 0 0 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+}
+
+.description {
+  padding: 30px 0 0;
+  font-size: 24px;
+  line-height: 30px;
+  color: #333333;
+  text-align: center;
+}
+.adminTable {
+  border-collapse: collapse;
+  width: 100%;
+  color: #4a4a4a;
+  border-bottom: 1px solid rgb(187, 185, 185);
+}
+.adminTable thead {
+  position: sticky;
+}
+.adminTable td,
+.adminTable th {
+  font-weight: normal;
+  padding: 10px;
+  border-bottom: 1px solid rgb(187, 185, 185);
+}
+.adminTable th {
+  background: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+.adminTable td {
+  text-align: center;
+  background: #ffffff;
+}
+.tableDiv {
+  max-width: 1400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+.caption {
+  text-align: center;
+  color: #333333;
+}
+
+.inputPersonItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputPersonSpace {
+  width: 15px
+}
+
+.transactionsError {
+  margin: 20px 0;
+  font-size: 24px;
+  text-align: center;
+}
+
+.transactionFiller {
+  min-height: 569px;
+}
+
+.block {
+  padding-top: 20px 
+}
